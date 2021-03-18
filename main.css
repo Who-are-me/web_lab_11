@@ -1,0 +1,11 @@
+.con {
+	text-decoration: none;
+	border: 1px solid blue;
+	width: 200px;
+	padding: 0;
+	margin-bottom: 5px;
+	display: block;
+	line-height: 30px;
+	text-indent: 0.6em;
+	background-color: yellow; 
+}
